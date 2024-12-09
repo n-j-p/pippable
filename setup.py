@@ -5,5 +5,5 @@ setup(
    version='0.1',
    description='Demonstration of how to create a importable gihub repo',
    author='n-j-p',
-   packages=['pippable'],
+   packages=['pippable_package'],
 )
