@@ -1,1 +1,1 @@
-from .pippable_package import *
+from .pippable import *
